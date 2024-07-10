@@ -65,11 +65,15 @@ figcaption {
     margin: 2px;
 }
 
+pre {
+    background-color: #eaeaea;
+    padding: 8px;
+}
+
 code {
-    background-color: #f8f9fa;
-    border: 1px solid #f8f9fa;
+    background-color: #eaeaea;
+    border: 1px solid #eaeaea;
     border-radius: 4px;
-    padding: 2px 4px;
     font-size: 0.9em;
     font-family: 'Sono', monospace;
 }
