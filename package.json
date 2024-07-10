@@ -11,6 +11,8 @@
   "description": "",
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-img": "^4.0.2"
+    "@11ty/eleventy-img": "^4.0.2",
+    "markdown-it": "^12.0.4",
+    "markdown-it-footnote": "^4.0.0"
   }
 }
