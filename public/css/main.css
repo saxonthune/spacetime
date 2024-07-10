@@ -36,3 +36,41 @@ img {
     margin-right: auto;
 }
 
+figure {
+    margin: 0;
+    padding: 0;
+
+}
+
+picture {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+figcaption {
+    margin-top: 8px;
+    text-align: center;
+    font-style: italic;
+    /*font-size: 0.8em;*/
+}
+
+.aside-warn {
+    background-color: #fee9a9;
+    border-color: #ffc107;
+    border-width: 2px;
+    padding: 8px;
+    margin: 2px;
+}
+
+code {
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    padding: 2px 4px;
+    font-size: 0.9em;
+    font-family: 'Sono', monospace;
+}
+
